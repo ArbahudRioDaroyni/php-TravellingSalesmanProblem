@@ -10,12 +10,12 @@ TSP PROJECTS
 FILE STRUCTURE
 -------------------
 
-      index.php           contains code of index
-      jquery.js           contains Jquery assets
-      peta.php            contains maps of route
-      README.md        	  contains How It Works Usage
-      start.php           contains inisialzation class
-      tsp.php             contains model classes
+      index.php             contains code of index
+      jquery.js             contains Jquery assets
+      peta.php              contains maps of route
+      README.md             contains How It Works Usage
+      start.php             contains inisialzation class
+      tsp.php               contains model classes
 
 
 
