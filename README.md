@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Algoritma Penyelesaian Kasus TSP dengan RBFS</h1>
+    <h1 align="center">Completion Algorithm TSP Case with RBFS</h1>
     <a href="https://github.com/ArbahudRioDaroyni" target="_blank">Arbahud Rio Daroyni - GitHub
     </a>
     <br>
