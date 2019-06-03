@@ -96,7 +96,7 @@
     </head>
     <body>
         <div class="page">
-            <h1>Kecerdasan Buatan Metode best first search</h1>
+            <h1>Kecerdasan Buatan Metode breadth first search</h1>
             <span style="color:#000; font-weight:normal;">Arbahud Rio Daoyni 1461505151</span>
         </div>
         <div class="page content">
